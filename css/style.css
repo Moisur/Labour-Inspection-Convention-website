@@ -9,3 +9,7 @@
     background-color: #FDF4FA;
     border-radius: 30px; 
 }
+.login-area{
+    background-image: url(/images/banner.png);
+    background-attachment: fixed;
+}
