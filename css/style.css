@@ -2,10 +2,10 @@
     font-family: 'Mukta', sans-serif;
     font-size: 18px;
 }
-/* .menu-area{
-    height: 70px;
-} */
 .casular{
     height:85vh;
-    
+}
+.button-are{
+    background-color: #FDF4FA;
+    border-radius: 30px; 
 }
