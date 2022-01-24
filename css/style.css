@@ -1,9 +1,9 @@
 .google-font{
     font-family: 'Mukta', sans-serif;
-    font-size: 18px;
+    font-size: 17px;
 }
 .casular{
-    height:85vh;
+    height:95vh;
 }
 .button-are{
     background-color: #FDF4FA;
@@ -12,4 +12,15 @@
 .login-area{
     background-image: url(/images/banner.png);
     background-attachment: fixed;
+}
+.top-problem{
+    position: absolute;
+    top: -13px;
+    right: 15px;
+} 
+.cradare{
+    margin-top: -70px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 15px rgb(1, 101, 250);
+   position: relative;
 }
