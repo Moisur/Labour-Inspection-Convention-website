@@ -30,5 +30,15 @@
 .offer-area{
     position: fixed;
     right:0px;
-    top: 250px;
+    top: 330px;
+}
+@media only screen and (min-width: 527px){
+    .imagesproblem{
+        width: 500px;
+    }
+}
+@media only screen and (max-width: 527px){
+    .google-font{
+        font-size: 14px;
+    }
 }
