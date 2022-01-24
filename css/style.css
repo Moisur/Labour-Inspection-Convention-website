@@ -10,13 +10,16 @@
     border-radius: 30px; 
 }
 .login-area{
-    background-image: url(/images/banner.png);
+    background-image: url(/images/United-Convention-Hall-2-scaled.jpg);
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .top-problem{
     position: absolute;
-    top: -13px;
-    right: 15px;
+    top: -15px;
+    right: 18px;
 } 
 .cradare{
     margin-top: -70px;
