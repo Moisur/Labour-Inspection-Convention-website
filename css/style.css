@@ -24,3 +24,11 @@
     box-shadow: 3px 3px 15px rgb(1, 101, 250);
    position: relative;
 }
+.border-are{
+    border-left: 6px solid blue;
+}
+.offer-area{
+    position: fixed;
+    right:0px;
+    top: 350px;
+}
